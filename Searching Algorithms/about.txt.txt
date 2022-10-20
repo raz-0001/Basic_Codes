@@ -1,0 +1,15 @@
+This folder includes two of the most used searching algorithms :
+1. Linear Search : 
+   Pros:
+   - Does not require a sorted array to work
+   Cons:
+   - Finds key in O(n) time complexity
+
+2. Binary Seacrch:
+   Pros:
+   -Finds key in O(log n) time complexity
+   Cons:
+   -Works only with sorted array
+
+Header file required: iostream
+  
