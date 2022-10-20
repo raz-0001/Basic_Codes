@@ -5,13 +5,13 @@
 	- **Python**
 	
 2. Output mode :-
-	- **Command Line Interface**
-	- **Graphical User Interface**
+	- [x] **Command Line Interface**
+	- [x] **Graphical User Interface**
 	
 3. Minimum lines to follow :-
-	- [x] **C** : ```30```
-	- [x] **C++** : ```20```
-	- [x] **Python** : ```25```
+	- **C** : ```30```
+	- **C++** : ```20```
+	- **Python** : ```25```
 
 4. Commits criteria :-
 	- **Folder name** :
