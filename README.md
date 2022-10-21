@@ -1,26 +1,9 @@
-# Rules & Regulations
-1. Language accepted here :-
-	- **C**
-	- **C++**
-	- **Python**
-	
-2. Output mode :-
-	- [x] **Command Line Interface**
-	- [x] **Graphical User Interface**
-	
-3. Minimum lines to follow :-
-	- **C** : ```30```
-	- **C++** : ```20```
-	- **Python** : ```25```
 
-4. Commits criteria :-
-	- **Folder name** :
-	```
-		-> Programme name
-		-> only alphabets & underscore(_) allowed
-	```
-	- **Readme file** :
-	```
-		-> Write a basic introduction
-		-> Write library/modules been used/downloaded
-	```
+# Infix to Postfix Conversion
+
+This program converts a given expression in Infix form to its Postfix form. 
+
+The Infix form of expression is easily understanable by Human beings whereas the machine(a.k.a computers) understands an expression in Postfix form better.
+
+Header files used : stdio.h and ctype.h
+
